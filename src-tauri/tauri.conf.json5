@@ -9,13 +9,6 @@
         "productName": "reproduce_8320",
     },
     "tauri": {
-        "allowlist": {
-            "all": false,
-            "shell": {
-                "all": false,
-                "open": true
-            }
-        },
         "bundle": {
             "active": true,
             "targets": "all",
